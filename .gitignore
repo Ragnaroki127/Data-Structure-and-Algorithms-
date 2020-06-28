@@ -1,0 +1,5 @@
+./Certificates/*
+
+*.java
+
+*.cpp
